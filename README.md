@@ -24,7 +24,8 @@ From there, we move into scanning to look for open services, weak settings, outd
 
 Next, exploitation helps us test if the weakness can be used in that environment. Sometimes attackers can use SQL injections by manipulating database queries or performing cross-site scripting in a web application.   
 
-Further, we can explore how weaknesses are found when users prove their identity such as usernames, passwords, keys, or any other way to obtain access to a system.  
+Further, we can explore how weaknesses are found when users need to prove their identity such as usernames, passwords, keys, or any other way to obtain access to a system.  
+
 Lastly, the remaining stages provide how a security professional validates findings, analyzes potential attack paths, and ultimately documents their results.
 
 ### Assessment Stages
