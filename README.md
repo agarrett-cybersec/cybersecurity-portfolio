@@ -36,5 +36,5 @@ Lastly, the remaining stages provide how a security professional validates findi
 5. Threat Framework
 6. Forensics/Reporting
 
-Each directory contains notes, videos, and lessons learned
+Each directory contains notes, tools, videos, and lessons learned
 from that stage of the journey.
